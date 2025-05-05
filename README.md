@@ -1,4 +1,4 @@
-<h4 align="left">Stats</h4>
+<h4 align="left">Stats 📈</h4>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<h4 align="left">Technologies</h4>
+<h4 align="left">Technologies 💻</h4>
 
 ###
 
@@ -41,18 +41,11 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR4c3BhaGp4b3FheDd1NjVqZ2tyMm91eHUzazdmNGt2Y3gzbGpicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JIireYxichTAGpq/giphy.gif"  />
-</div>
+<h4 align="left">Streaks </h4>
 
-###
-
-<h4 align="left">Strikes</h4>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DanielQuintela&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 800px; margin: auto;">
+  <img height="160" src="https://streak-stats.demolab.com?user=DanielQuintela&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+  <img height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR4c3BhaGp4b3FheDd1NjVqZ2tyMm91eHUzazdmNGt2Y3gzbGpicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JIireYxichTAGpq/giphy.gif" alt="the terminator t800" />
 </div>
 
 ###
