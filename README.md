@@ -1,3 +1,9 @@
+## 🚀 Welcome! I’m Daniel – crafting clean code and bold ideas.
+I hold a degree in **Information Systems** and have worked at two startups, gaining experience in fast-paced, dynamic environments.
+Currently, I work as a developer for the **Brazilian government**.  
+
+Many of the projects you'll find here are either real-world products or experiments to explore new frameworks and technologies.  
+I'm always learning, building, and pushing boundaries.
 ## 👨‍💻 About Me
 
 - 🎓 Graduated in **Information Systems**  
